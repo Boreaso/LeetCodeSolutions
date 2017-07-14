@@ -1,0 +1,12 @@
+c:\users\boreas\documents\visual studio 2017\Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe.config
+c:\users\boreas\documents\visual studio 2017\Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe
+c:\users\boreas\documents\visual studio 2017\Projects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.pdb
+c:\users\boreas\documents\visual studio 2017\Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.csprojResolveAssemblyReference.cache
+c:\users\boreas\documents\visual studio 2017\Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.exe
+c:\users\boreas\documents\visual studio 2017\Projects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.pdb
+E:\代码\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe.config
+E:\代码\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe
+E:\代码\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.pdb
+E:\代码\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.csprojResolveAssemblyReference.cache
+E:\代码\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.exe
+E:\代码\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.pdb
